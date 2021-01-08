@@ -1,0 +1,15 @@
+shapely
+imgaug
+pyclipper
+lmdb
+tqdm
+numpy
+common
+dual
+tight
+data
+prox
+pytest-shutil
+pillow
+paddlehub
+paddle

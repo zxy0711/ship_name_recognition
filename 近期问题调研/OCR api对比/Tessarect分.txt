@@ -1,0 +1,100 @@
+000001   苏运货   责廷刀   CNFalse   0   1   ###   068   860   NUMFalse   0   1
+000002   浙诸暨货   未能识别   CNFalse   0   2   ###   1058      NUMFalse   0   2
+000003   浙诸暨货      CNFalse   0   3   ###   1028      NUMFalse   0   3
+000004   浙余杭货   霉襄纂葛   CNFalse   0   4   ###   01697   7   NUMFalse   0   4
+000005   浙余杭货   浙余机责   CNFalse   0   5   ###   02163   02163   NUMTrue   1   5
+000006   浙钱江货   沥   CNFalse   0   6   ###   00230   5   NUMFalse   1   6
+000007   浙余杭货   未能识别   CNFalse   0   7   ###   02096      NUMFalse   1   7
+000008   皖阜阳货   东八连芸医江浩   CNFalse   0   8   ###   1691      NUMFalse   1   8
+000009   浙余杭货   润根标标   CNFalse   0   9   ###   01092   0109   NUMFalse   1   9
+000010   浙桐乡货   训   CNFalse   0   10   ###   03198      NUMFalse   1   10
+000011   浙桐乡货      CNFalse   0   11   ###   03198      NUMFalse   1   11
+000012   安航机   安肌机   CNFalse   0   12   ###   00268   268   NUMFalse   1   12
+000013   皖世豪      CNFalse   0   13   ###   0998      NUMFalse   1   13
+000014   浙桐乡货      CNFalse   0   14   ###   02810      NUMFalse   1   14
+000015   皖金海      CNFalse   0   15   ###   1899      NUMFalse   1   15
+000016   浙海宁货   未能识别   CNFalse   0   16   ###   01393      NUMFalse   1   16
+000017   浙德清货      CNFalse   0   17   ###   0903      NUMFalse   1   17
+000018   浙平湖货   浙平渡   CNFalse   0   18   ###   0203   02013   NUMFalse   1   18
+000019   浙平湖货   蓥沥   CNFalse   0   19   ###   02083   02083   NUMTrue   2   19
+000020   浙余杭货   言技   CNFalse   0   20   ###   01446   0406   NUMFalse   2   20
+000021   浙余杭货   未能识别   CNFalse   0   21   ###   01053      NUMFalse   2   21
+000022   浙余杭货   未能识别   CNFalse   0   22   ###   02838      NUMFalse   2   22
+000023   浙平湖货      CNFalse   0   23   ###   02199      NUMFalse   2   23
+000024   浙上虞货   沈上贤史贼   CNFalse   0   24   ###   0595   0   NUMFalse   2   24
+000025   浙平湖货      CNFalse   0   25   ###   02077      NUMFalse   2   25
+000026   浙绍运   浙英近二   CNFalse   0   26   ###   620   6200   NUMFalse   2   26
+000027   浙诸暨货   斯请造货   CNFalse   0   27   ###   1067   1067   NUMTrue   3   27
+000028   浙诸暨货   浙赏疫晚资许   CNFalse   0   28   ###   1067   51057   NUMFalse   3   28
+000029   浙安吉货      CNFalse   0   29   ###   1117      NUMFalse   3   29
+000030   浙安吉货   浙宇告贵   CNFalse   0   30   ###   2380   2380   NUMTrue   4   30
+000031   浙余杭货      CNFalse   0   31   ###   02879      NUMFalse   4   31
+000032   浙余杭货   蝙命冀阗啪静   CNFalse   0   32   ###   03033      NUMFalse   4   32
+000033   浙绍兴货   未能识别   CNFalse   0   33   ###   0811      NUMFalse   4   33
+000034   浙杭州货   口杭州责   CNFalse   0   34   ###   00580   00580   NUMTrue   5   34
+000035   浙钱江货      CNFalse   0   35   ###   00237   00237   NUMTrue   6   35
+000036   浙余杭货      CNFalse   0   36   ###   01980   0198   NUMFalse   6   36
+000037   浙平湖货   未能识别   CNFalse   0   37   ###   02898      NUMFalse   6   37
+000038   浙萧山货   萤酗山侦吊   CNFalse   0   38   ###   25159   225154   NUMFalse   6   38
+000039   浙越城货   浙苓猎责   CNFalse   0   39   ###   1068   1058   NUMFalse   6   39
+000040   泰顺机   未能识别   CNFalse   0   40   ###   8858      NUMFalse   6   40
+000041   苏盐货   苏盐费   CNFalse   0   41   ###   61099   61099   NUMTrue   7   41
+000042   皖寿县   俊考氏   CNFalse   0   42   ###   9788   9785   NUMFalse   7   42
+000043   浙平湖货   未能识别   CNFalse   0   43   ###   02556      NUMFalse   7   43
+000044   浙萧山货      CNFalse   0   44   ###   25080      NUMFalse   7   44
+000045   浙桐庐货      CNFalse   0   45   ###   00528      NUMFalse   7   45
+000046   浙海宁货   育河伟水人门河   CNFalse   0   46   ###   0190      NUMFalse   7   46
+000047   浙上虞货   科一   CNFalse   0   47   ###   0667   05   NUMFalse   7   47
+000048   浙余杭货      CNFalse   0   48   ###   00898      NUMFalse   7   48
+000049   皖寿县   巳沥   CNFalse   0   49   ###   1605      NUMFalse   7   49
+000050   桥机   标扔   CNFalse   0   50   ###   358   358   NUMTrue   8   50
+000051   浙余杭货   浙伟芒关   CNFalse   0   51   ###   00891   00   NUMFalse   8   51
+000052   浙萧山货   扬   CNFalse   0   52   ###   13182      NUMFalse   8   52
+000053   浙萧山货   招   CNFalse   0   53   ###   13182      NUMFalse   8   53
+000054   浙嘉兴货   兵贷招   CNFalse   0   54   ###   02786   02785   NUMFalse   8   54
+000055   浙萧山货   津芸颂一   CNFalse   0   55   ###   23819   5515   NUMFalse   8   55
+000056   浙诸暨货   藿如翼薯日寿   CNFalse   0   56   ###   0806      NUMFalse   8   56
+000057   浙上虞货   林扬   CNFalse   0   57   ###   0239      NUMFalse   8   57
+000058   浙萧山货   不认孙不万命   CNFalse   0   58   ###   23678      NUMFalse   8   58
+000059   浙余杭货   贺林   CNFalse   0   59   ###   08018   08048   NUMFalse   8   59
+000060   浙桐乡货   浙桐乡货   CNTrue   1   60   ###   08   0778   NUMFalse   8   60
+000061   浙萧山货   渐筱贵   CNFalse   1   61   ###   25103   25103   NUMTrue   9   61
+000062   浙萧山货   山贷   CNFalse   1   62   ###   23983   52983   NUMFalse   9   62
+000063   浙钱江货      CNFalse   1   63   ###   00231      NUMFalse   9   63
+000064   浙上虞货   颂吊万节园   CNFalse   1   64   ###   0318      NUMFalse   9   64
+000065   浙嘉兴货   连嘉兴贲   CNFalse   1   65   ###   01996   01996   NUMTrue   10   65
+000066   浙诸暨货      CNFalse   1   66   ###   0796      NUMFalse   10   66
+000067   浙桐乡货      CNFalse   1   67   ###   01099   21   NUMFalse   10   67
+000068   浙诸暨货      CNFalse   1   68   ###   0796      NUMFalse   10   68
+000069   浙嘉兴货   尚命余芸   CNFalse   1   69   ###   02568   02   NUMFalse   10   69
+000070   浙诸暨货   动流要儿   CNFalse   1   70   ###   1182   2   NUMFalse   10   70
+000071   浙钱江货   命   CNFalse   1   71   ###   00527      NUMFalse   10   71
+000072   浙诸暨货   伟丁   CNFalse   1   72   ###   1028      NUMFalse   10   72
+000073   浙诸暨货   海婷货   CNFalse   1   73   ###   1028   102   NUMFalse   10   73
+000074   祥和   未能识别   CNFalse   1   74   ###   798      NUMFalse   10   74
+000075   浙萧山货   命   CNFalse   1   75   ###   23966      NUMFalse   10   75
+000076   浙萧山货   未能识别   CNFalse   1   76   ###   25025      NUMFalse   10   76
+000077   浙绍兴货   未能识别   CNFalse   1   77   ###   0293      NUMFalse   10   77
+000078   浙平湖货      CNFalse   1   78   ###   02806      NUMFalse   10   78
+000079   浙绍兴货   河东一沥万不   CNFalse   1   79   ###   0293      NUMFalse   10   79
+000080   浙诸暨货   未能识别   CNFalse   1   80   ###   0816      NUMFalse   10   80
+000081   浙诸暨货   未能识别   CNFalse   1   81   ###   0867      NUMFalse   10   81
+000082   浙诸暨货   浙诺动暨贴   CNFalse   1   82   ###   1260   1512   NUMFalse   10   82
+000083   浙诸暨货      CNFalse   1   83   ###   1269      NUMFalse   10   83
+000084   浙诸暨货   惭曹撸删幔真懵脚   CNFalse   1   84   ###   1067   1067   NUMTrue   11   84
+000085   浙诸暨货   沙流费   CNFalse   1   85   ###   1067   28201510657   NUMFalse   11   85
+000086   浙萧山货   未能识别   CNFalse   1   86   ###   23838      NUMFalse   11   86
+000087   浙萧山货   未能识别   CNFalse   1   87   ###   23838      NUMFalse   11   87
+000088   浙诸暨货   未能识别   CNFalse   1   88   ###   1238      NUMFalse   11   88
+000089   浙杭州货      CNFalse   1   89   ###   00583   00583   NUMTrue   12   89
+000090   浙诸暨货   汀   CNFalse   1   90   ###   1228      NUMFalse   12   90
+000091   浙诸暨货   沥不   CNFalse   1   91   ###   1228      NUMFalse   12   91
+000092   浙诸暨货   浙诸盆贵   CNFalse   1   92   ###   0768   0768   NUMTrue   13   92
+000093   浙诸暨货   丶兵技连颂   CNFalse   1   93   ###   1056      NUMFalse   13   93
+000094   浙诸暨货   淅醴诸硼蜃货肋   CNFalse   1   94   ###   0863   0863   NUMTrue   14   94
+000095   浙诸暨货   渐谅境贵   CNFalse   1   95   ###   1099   1099   NUMTrue   15   95
+000096   皖寿县   未能识别   CNFalse   1   96   ###   3333      NUMFalse   15   96
+000097   浙萧山货   夕芸沥   CNFalse   1   97   ###   03167      NUMFalse   15   97
+000098   桐乡货   垌乡售   CNFalse   1   98   ###   02785   2785   NUMFalse   15   98
+000099   浙桐庐货      CNFalse   1   99   ###   00483   0   NUMFalse   15   99
+000100   浙诸暨货   水   CNFalse   1   100   ###   0836      NUMFalse   15   100
