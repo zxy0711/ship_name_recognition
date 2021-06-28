@@ -1,6 +1,6 @@
 # Ship_name_recognition
 ### 环境配置
-python版本低于3.8
+python版本为3.8.6
 
 #### 1.安装PaddlePaddle v2.0
 ```
@@ -9,7 +9,7 @@ python3 -m pip install --upgrade pip
 如果您的机器安装的是CUDA9或CUDA10，请运行以下命令安装
 python3 -m pip install paddlepaddle-gpu==2.0.0b0 -i https://mirror.baidu.com/pypi/simple
 
-如果您的机器是CPU，请运行以下命令安装
+如果您的机器是CPU，请运行以下命令安装（目前按照官网最新版本安装）
 
 python3 -m pip install paddlepaddle==2.0.0b0 -i https://mirror.baidu.com/pypi/simple
 ```
