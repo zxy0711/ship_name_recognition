@@ -1,7 +1,7 @@
 # Ship_name_recognition
 ### 环境配置
 python版本为3.8.6
-最好不要使用3.7版本，经测试paddle会出现DLL缺失的情况。
+（最好不要使用3.7版本，经测试paddle会出现DLL缺失的情况。）
 
 #### 1.安装PaddlePaddle v2.0
 ```
